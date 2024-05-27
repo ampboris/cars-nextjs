@@ -1,2 +1,2 @@
 # cars-nextjs
-NextJs, ReactJs, Tailwind CSS, Headless UI, Server/Client renders
+NextJs 14, ReactJs, Tailwind CSS, Headless UI, Server/Client renders
